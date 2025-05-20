@@ -18,3 +18,8 @@ Diferentemente de soluções com dados fixos, esta calculadora é interativa e f
 
 ## Exemplo de Erro:
 ![Interface de erro](img2.png)
+
+---
+
+# 💻 IDE utilizada:
+- Apache NetBeans
