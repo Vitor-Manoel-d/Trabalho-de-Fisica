@@ -17,4 +17,4 @@ Diferentemente de soluções com dados fixos, esta calculadora é interativa e f
 ![Interface de resultado](img3.png)
 
 ## Exemplo de Erro:
-![Interface de erro](img1.png)
+![Interface de erro](img2.png)
