@@ -8,8 +8,7 @@ Diferentemente de soluções com dados fixos, esta calculadora é interativa e f
 
 ---
 
-## 📸 Captura de tela
+## 📸 Capturas de tela
 
-Você pode adicionar imagens como esta para demonstrar a interface:
 
 ![Interface da calculadora Java](img1.png)
