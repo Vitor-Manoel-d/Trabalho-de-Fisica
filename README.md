@@ -13,3 +13,8 @@ Diferentemente de soluções com dados fixos, esta calculadora é interativa e f
 Interface da Calculadora:
 ![Interface da calculadora Java](img1.png)
 
+Exemplo de Resultado:
+![Interface de resultado](img3.png)
+
+Exemplo de Erro:
+![Interface de erro](img1.png)
