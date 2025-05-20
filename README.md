@@ -12,5 +12,4 @@ Diferentemente de soluções com dados fixos, esta calculadora é interativa e f
 
 Você pode adicionar imagens como esta para demonstrar a interface:
 
-```markdown
 ![Interface da calculadora Java](img1.png)
