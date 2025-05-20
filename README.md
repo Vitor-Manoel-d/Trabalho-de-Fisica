@@ -10,11 +10,11 @@ Diferentemente de soluções com dados fixos, esta calculadora é interativa e f
 
 # 📸 Capturas de tela
 
-##Interface da Calculadora:
+## Interface da Calculadora:
 ![Interface da calculadora Java](img1.png)
 
-##Exemplo de Resultado:
+## Exemplo de Resultado:
 ![Interface de resultado](img3.png)
 
-##Exemplo de Erro:
+## Exemplo de Erro:
 ![Interface de erro](img1.png)
